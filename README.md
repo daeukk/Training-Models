@@ -6,6 +6,7 @@ The table below summarizes the performance results of each model.
 ![Diagram](assets/fig1.png)
 
 The figures below illustrate the actual versus predicted pH values for each model: (1) Multilayer Perceptron (MLP), (2) eXtreme Gradient Boosting (XGBoost), and (3) Random Forest (RF).
+
 ![Diagram](assets/fig2.png)
 ![Diagram](assets/fig3.png)
 ![Diagram](assets/fig4.png)
