@@ -1,6 +1,6 @@
 # Training Models
 
-This code trains three different machine learning models—Multilayer Perceptron (MLP), eXtreme Gradient Boosting (XGBoost), and Random Forest (RF)—to predict pH levels based on a dataset of extracted color channel values. It also includes visualizations of the prediction results for performance comparison. In the final stage, each trained model is converted into TensorFlow Lite (TFLite) format to enable integration into a mobile application.
+This code trains three different machine learning models—Multilayer Perceptron (MLP), eXtreme Gradient Boosting (XGBoost), and Random Forest (RF)—to predict pH levels based on a dataset of extracted color channel values. It also includes visualizations of the prediction results for performance comparison. Among the three models, only the MLP model was converted into TensorFlow Lite (TFLite) format to enable integration into a mobile application. The TFLite conversion is implemented in the mlpv3.py file.
 
 The table below summarizes the performance results of each model.
 ![Diagram](assets/fig1.png)
